@@ -1,0 +1,15 @@
+/Users/arinagomza/RiderProjects/homework_2/labs/bin/Debug/net7.0/labs
+/Users/arinagomza/RiderProjects/homework_2/labs/bin/Debug/net7.0/labs.deps.json
+/Users/arinagomza/RiderProjects/homework_2/labs/bin/Debug/net7.0/labs.runtimeconfig.json
+/Users/arinagomza/RiderProjects/homework_2/labs/bin/Debug/net7.0/labs.dll
+/Users/arinagomza/RiderProjects/homework_2/labs/bin/Debug/net7.0/labs.pdb
+/Users/arinagomza/RiderProjects/homework_2/labs/obj/Debug/net7.0/labs.csproj.AssemblyReference.cache
+/Users/arinagomza/RiderProjects/homework_2/labs/obj/Debug/net7.0/labs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinagomza/RiderProjects/homework_2/labs/obj/Debug/net7.0/labs.AssemblyInfoInputs.cache
+/Users/arinagomza/RiderProjects/homework_2/labs/obj/Debug/net7.0/labs.AssemblyInfo.cs
+/Users/arinagomza/RiderProjects/homework_2/labs/obj/Debug/net7.0/labs.csproj.CoreCompileInputs.cache
+/Users/arinagomza/RiderProjects/homework_2/labs/obj/Debug/net7.0/labs.dll
+/Users/arinagomza/RiderProjects/homework_2/labs/obj/Debug/net7.0/refint/labs.dll
+/Users/arinagomza/RiderProjects/homework_2/labs/obj/Debug/net7.0/labs.pdb
+/Users/arinagomza/RiderProjects/homework_2/labs/obj/Debug/net7.0/labs.genruntimeconfig.cache
+/Users/arinagomza/RiderProjects/homework_2/labs/obj/Debug/net7.0/ref/labs.dll

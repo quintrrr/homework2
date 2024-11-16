@@ -1,5 +1,4 @@
 ﻿namespace ConsoleApp2;
-
 /// <summary>
 ///     Виды банковского счета
 /// </summary>
